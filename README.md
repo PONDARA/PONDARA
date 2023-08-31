@@ -28,15 +28,30 @@ Here are some ideas to get you started:
 </p>
 
 <!-- personal sumary -->
-<img align="left" height="150" src="./assets/IMG_1803-removebg-preview.png">
+<img align="left" height="115" src="./assets/IMG_1803-removebg-preview.png">
 <p align="justify">
-&nbsp; &nbsp; I love reading - it has always been my favorite hobby. I am especially interested in technology and science and like to stay up-to-date on the latest news and developments in those areas. I got into tech at a young age, playing games on Nintendo consoles and Grand Theft Auto: Vice City when I was just 10 years old. As a creator, I want to work with honest, creative, and motivated people. I believe that reflection is critical - looking at what others have done before us and using that information to build a roadmap for the future.
+I love reading - it has always been my favorite hobby. I am especially interested in technology and science and like to stay up-to-date on the latest news and developments in those areas. I got into tech at a young age, playing games on Nintendo consoles and Grand Theft Auto: Vice City when I was just 10 years old. As a creator, I want to work with honest, creative, and motivated people. I believe that reflection is critical - looking at what others have done before us and using that information to build a roadmap for the future.
 </p>
 
 <br>
 
 <!-- experience -->
-
+## Experience Journey
+> ### [YouAdMe](https://youadme.com/)
+>> #### Product Manager.
+>> - July 2022 - Present (1year 2months)
+> ### [Sabay Digital](https://sabay.com/)
+>> #### Product Developer X Product Researcher.
+>> - Dec 2021 - Jul 2022 (7 months)
+>> #### Full Stack Developer.
+>> - Aug 2021 - Dec 2021 (4 months)
+>> #### Backend Developer X Payment/Blockchanin Developer.
+>> - Sept 2020 - Aug 2021 (11 months)
+>> ##### Backend Develpoper Intern.
+>> - Mar 2020 - Sept 2020 (6 months)
+> ### [OPICTS](https://www.linkedin.com/company/opicts/about/)
+>> #### Backend Developer
+>> - Jul 2019 - Dec 2019 (6 months)
 
 <!-- find me -->
 <!-- ## Find me around the web 🌎:
@@ -55,7 +70,14 @@ Here are some ideas to get you started:
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PONDARA&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&hide=html,php" />
   </a>
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PONDARA&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="PONDARA" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PONDARA&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="PONDARA" />
+</p>
+<!-- count visited -->
+<div align="center">
+
+  ![:name](https://count.getloli.com/get/@:PONDARA)
+</div>
 </details>
 
 ---
