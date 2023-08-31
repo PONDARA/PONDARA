@@ -28,12 +28,15 @@ Here are some ideas to get you started:
 </p>
 
 <!-- personal sumary -->
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="./assets/IMG_1803-removebg-preview.png"></a>
+<img align="left" height="150" src="./assets/IMG_1803-removebg-preview.png">
 <p align="justify">
 &nbsp; &nbsp; I love reading - it has always been my favorite hobby. I am especially interested in technology and science and like to stay up-to-date on the latest news and developments in those areas. I got into tech at a young age, playing games on Nintendo consoles and Grand Theft Auto: Vice City when I was just 10 years old. As a creator, I want to work with honest, creative, and motivated people. I believe that reflection is critical - looking at what others have done before us and using that information to build a roadmap for the future.
 </p>
 
 <br>
+
+<!-- experience -->
+
 
 <!-- find me -->
 <!-- ## Find me around the web 🌎:
