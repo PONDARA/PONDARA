@@ -199,7 +199,7 @@ I love reading - it has always been my favorite hobby. I am especially intereste
 <!-- count visited -->
 <div align="center">
 
-  <!-- ![:name](https://count.getloli.com/get/@:PONDARA) -->
+  ![:name](https://count.getloli.com/get/@:PONDARA)
 </div>
 </details>
 
