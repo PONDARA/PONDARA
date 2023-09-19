@@ -130,12 +130,45 @@ I love reading - it has always been my favorite hobby. I am especially intereste
 > ### [OPICTS](https://www.linkedin.com/company/opicts/about/)
 >> #### Backend Developer
 >> - Jul 2019 - Dec 2019 (6 months)
+> ### <span style="color: Yellow;">Some of my project references:</span>
+>> - [Mysabay SSN](https://ssn.digital/)
+>> - [Mysabay V2](https://mysabay.com/)
+>> - [Mysabay Reseller V2](https://reseller-signup.sabay.com/)
+>> - [Soyo Now](https://soyonow.sabay.com/)
 
-<!-- find me -->
-<!-- ## Find me around the web 🌎:
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼 -->
+---
+
+<!-- contact -->
+<div align="center">
+
+  **Get close to me:**
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/dara-pun/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <!-- spotify -->
+  <a href="https://open.spotify.com/user/31abtldcagsljx7lkme26w7n7wzm?si=0d50f303470640ae">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+  <!-- instagram -->
+  <a href="https://www.instagram.com/dara_pon">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <!-- line -->
+  <a href="https://line.me/ti/p/SV_TYL0J5K">
+  <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white">
+  </a>
+  <!-- facebook -->
+  <a href="https://www.facebook.com/pondara69/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <!-- telegram -->
+  <a href="https://t.me/+85569389882">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
+
+---
 
 <br>
 
