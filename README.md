@@ -74,8 +74,6 @@ I love reading - it has always been my favorite hobby. I am especially intereste
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"></code>
 <code><img height="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"></code>
 <code><img height="30" src="	https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></code>
@@ -101,14 +99,10 @@ I love reading - it has always been my favorite hobby. I am especially intereste
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"></code>
 <code><img height="30" src="./assets/icons/XD.svg"></code>
 <code><img height="30" src="./assets/icons/Solidity.svg"></code>
-<code><img height="30" src="./assets/icons/Remix-Light.svg"></code>
 <code><img height="30" src="./assets/icons/Laravel-Light.svg"></code>
-<code><img height="30" src="./assets//icons/Octave-Light.svg"></code>
 <code><img height="30" src="./assets/icons/StackOverflow-Dark.svg"></code>
 <code><img height="30" src="./assets/icons/Powershell-Dark.svg"></code>
 <code><img height="30" src="./assets/icons/Markdown-Dark.svg"></code>
