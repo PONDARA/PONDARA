@@ -37,7 +37,7 @@ I love reading - it has always been my favorite hobby. I am especially intereste
 
 ---
 
-**Languages,Technologies, Libraries and Tools:**
+<!-- **Languages,Technologies, Libraries and Tools:**
 
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png"></code>
@@ -109,7 +109,7 @@ I love reading - it has always been my favorite hobby. I am especially intereste
 <code><img height="30" src="./assets/icons/Markdown-Dark.svg"></code>
 <code><img height="30" src="./assets/icons/JQuery.svg"></code>
 <code><img height="30" src="./assets/icons/IPFS-Dark.svg"></code>
-<code><img height="30" src="./assets/icons/Regex-Dark.svg"></code>
+<code><img height="30" src="./assets/icons/Regex-Dark.svg"></code> -->
 
 
 
