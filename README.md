@@ -115,9 +115,15 @@ I love reading - it has always been my favorite hobby. I am especially intereste
 
 <!-- experience -->
 ## Experience Journey
+> ### [SabayTekh](https://sabay.com/)
+>> #### Backend Developer.
+>> - February 2024 - Present (9months)
+> ### [Pointer](https://pointerasia.com/about-pointer/)
+>> #### Full-stack Developer.
+>> - October 2023 - February 2024 (5months)
 > ### [YouAdMe](https://youadme.com/)
 >> #### Product Manager.
->> - July 2022 - Present (1year 2months)
+>> - July 2022 - October 2023 (1year 4months)
 > ### [Sabay Digital](https://sabay.com/)
 >> #### Product Developer X Product Researcher.
 >> - Dec 2021 - Jul 2022 (7 months)
@@ -135,6 +141,8 @@ I love reading - it has always been my favorite hobby. I am especially intereste
 >> - [Mysabay V2](https://mysabay.com/)
 >> - [Mysabay Reseller V2](https://reseller-signup.sabay.com/)
 >> - [Soyo Now](https://soyonow.sabay.com/)
+>> - [Pointer](https://pointerasia.com/)
+>> - [Sabay One](https://one.sabay.com/)
 
 ---
 
